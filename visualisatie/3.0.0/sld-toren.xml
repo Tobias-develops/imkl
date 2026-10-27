@@ -6346,7 +6346,7 @@
                                 <Format>image/svg+xml</Format>
                             </ExternalGraphic>
                             <Opacity>0.4</Opacity>
-                            <Size>365</Size>
+                            <Size>25</Size>
                             <Rotation>
                                 <ogc:Function name="if_then_else">
                                     <ogc:Function name="isNull">
